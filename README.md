@@ -3,11 +3,12 @@
 
 1. Jak jsem postupoval při psaní kódu?
 
+
 * Snažil jsem se napodobit Český Jazyk.
 
 * Zvolil jsem cestu seznamu, kde jsem zadal kombinace všech písmen abecedy a k nim přiřadil postupně všechny jednotlivé samohlásky. Vznikly mi tak kombinace slabik o dvou písmenech.
 
- - Vypadá to nějak takto:
+Vypadá to nějak takto:
 
 ['aa', 'ae', 'ai', 'ao', 'au',
 'ba', 'be', 'bi', 'bo', 'bu',
@@ -49,16 +50,18 @@ Zadání větší min. hodnoty než max. hodnoty.
 
 2. Co nového jsem se naučil?
 
+
 * Z mé minulé práce (textové hry) jsem se snažil ponaučit a zdokonalit. Funkce jsem si našel na internetu a zjistil jsem si, jak fungují:
 
- - Použil jsem funkce 'try' a 'except', které mi pomohli vyřešit problém s neplatně zadaným inputem od uživatele.
+Použil jsem funkce 'try' a 'except', které mi pomohli vyřešit problém s neplatně zadaným inputem od uživatele.
 
- - Jako další jsem použil funkci 'join', díky které jsem mohl slabiky spojit do slov.
+Jako další jsem použil funkci 'join', díky které jsem mohl slabiky spojit do slov.
 
- - Jako poslední jsem se přiučil o funkci '.capitalize()'. Díky ní můžu mít všechna začáteční písmena vět velká.
+Jako poslední jsem se přiučil o funkci '.capitalize()'. Díky ní můžu mít všechna začáteční písmena vět velká.
 
 
 3. Jak mě tento úkol bavil?
+
 
 * Díky tomuto úkolu jsem se něco nového přiučil a dozvěděl. Programování mě v celku baví, a tak jsem si tento úkol poměrně užil.
 
