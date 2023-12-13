@@ -33,5 +33,7 @@ Vypadá to nějak takto:
 'ya', 'ye', 'yi', 'yo', 'yu',
 'za', 'ze', 'zi', 'zo', 'zu']
 
-Dále jsem postupoval ošetřením možných chyb při zadávání hodnot uživatelem jako jiný znak než číslo nebo zadáním větší min. hodnoty než max. hodnoty
+Dále jsem postupoval ošetřením možných chyb při zadávání hodnot uživatelem: 
+Jiný znak než číslo 
+Zadáním větší min. hodnoty než max. hodnoty
                                                                                       
