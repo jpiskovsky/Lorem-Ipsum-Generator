@@ -55,6 +55,8 @@ Zadání větší min. hodnoty než max. hodnoty.
 
 Použil jsem funkce 'try' a 'except', které mi pomohli vyřešit problém s neplatně zadaným inputem od uživatele.
 
+Další novinkou pro mě byla funkce 'len()', která v mém programu slouží k zjištění počtu prvků ze seznamu.
+
 Jako další jsem použil funkci 'join', díky které jsem mohl slabiky spojit do slov.
 
 Jako poslední jsem se přiučil o funkci '.capitalize()'. Díky ní můžu mít všechna začáteční písmena vět velká.
