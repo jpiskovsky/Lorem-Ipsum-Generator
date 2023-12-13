@@ -34,6 +34,8 @@ Vypadá to nějak takto:
 'za', 'ze', 'zi', 'zo', 'zu']
 
 Dále jsem postupoval ošetřením možných chyb při zadávání hodnot uživatelem: 
+
 Jiný znak než číslo 
+
 Zadáním větší min. hodnoty než max. hodnoty
                                                                                       
