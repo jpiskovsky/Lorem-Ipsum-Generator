@@ -1,10 +1,13 @@
 # Lorem Ipsum Generátor
 
+
 1. Jak jsem postupoval při psaní kódu?
 
-Zvolil jsem cestu seznamu, kde jsem zadal kombinace všech písmen abecedy a k nim přiřadil postupně všechny jednotlivé samohlásky. Vznikly mi tak kombinace slabik o dvou písmenech.
+* Snažil jsem se napodobit Český Jazyk.
 
-Vypadá to nějak takto:
+* Zvolil jsem cestu seznamu, kde jsem zadal kombinace všech písmen abecedy a k nim přiřadil postupně všechny jednotlivé samohlásky. Vznikly mi tak kombinace slabik o dvou písmenech.
+
+ - Vypadá to nějak takto:
 
 ['aa', 'ae', 'ai', 'ao', 'au',
 'ba', 'be', 'bi', 'bo', 'bu',
@@ -33,9 +36,34 @@ Vypadá to nějak takto:
 'ya', 'ye', 'yi', 'yo', 'yu',
 'za', 'ze', 'zi', 'zo', 'zu']
 
-Dále jsem postupoval ošetřením možných chyb při zadávání hodnot uživatelem: 
+* Dále jsem postupoval ošetřením možných chyb při zadávání hodnot uživatelem: 
 
-Jiný znak než číslo 
+ - Jiný znak než číslo.
 
-Zadáním větší min. hodnoty než max. hodnoty
+ - Zadáním větší min. hodnoty než max. hodnoty.
+
+* Dále jsem na základě náhody napsal kód, který vytvoří slova ze slabik a následně ze slov věty podle zadaných hodnot uživatelem.
+
+* Poslední krok je vytištění hotových vět.
+
+
+2. Co nového jsem se naučil?
+
+* Z mé minulé práce (textové hry) jsem se snažil ponaučit a zdokonalit. Funkce jsem si našel na internetu a zjistil jsem si, jak fungují:
+
+ - Použil jsem funkce 'try' a 'except', které mi pomohli vyřešit problém s neplatně zadaným inputem od uživatele.
+
+ - Jako další jsem použil funkci 'join', díky které jsem mohl slabiky spojit do slov.
+
+ - Jako poslední jsem se přiučil o funkci '.capitalize()'. Díky ní můžu mít všechna začáteční písmena vět velká.
+
+
+3. Jak mě tento úkol bavil?
+
+* Díky tomuto úkolu jsem se něco nového přiučil a dozvěděl. Programování mě v celku baví, a tak jsem si tento úkol poměrně užil.
+
+Honza
+   
+
+
                                                                                       
