@@ -1,1 +1,1 @@
-# Lorem-Ipsum-Generator
+# Lorem Ipsum Generátor
