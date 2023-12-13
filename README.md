@@ -1,10 +1,11 @@
 # Lorem Ipsum Generátor
 
-Jak jsem postupoval při psaní kódu?
+1. Jak jsem postupoval při psaní kódu?
 
 Zvolil jsem cestu seznamu, kde jsem zadal kombinace všech písmen abecedy a k nim přiřadil postupně všechny jednotlivé samohlásky. Vznikly mi tak kombinace slabik o dvou písmenech.
 
-Vypadá to nějak takto: 
+Vypadá to nějak takto:
+
 ['aa', 'ae', 'ai', 'ao', 'au',
 'ba', 'be', 'bi', 'bo', 'bu',
 'ca', 'ce', 'ci', 'co', 'cu',
@@ -32,4 +33,5 @@ Vypadá to nějak takto:
 'ya', 'ye', 'yi', 'yo', 'yu',
 'za', 'ze', 'zi', 'zo', 'zu']
 
-
+Dále jsem postupoval ošetřením možných chyb při zadávání hodnot uživatelem jako jiný znak než číslo nebo zadáním větší min. hodnoty než max. hodnoty
+                                                                                      
