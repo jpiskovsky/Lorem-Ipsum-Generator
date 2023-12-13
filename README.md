@@ -36,7 +36,11 @@
 'ya', 'ye', 'yi', 'yo', 'yu',
 'za', 'ze', 'zi', 'zo', 'zu']
 
-* Dále jsem postupoval ošetřením možných chyb při zadávání hodnot uživatelem: Jiný znak než číslo a zadání větší min. hodnoty než max. hodnoty.
+* Dále jsem postupoval ošetřením možných chyb při zadávání hodnot uživatelem:
+
+Jiný znak než číslo 
+
+Zadání větší min. hodnoty než max. hodnoty.
 
 * Dále jsem na základě náhody napsal kód, který vytvoří slova ze slabik a následně ze slov věty podle zadaných hodnot uživatelem.
 
